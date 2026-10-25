@@ -1,4 +1,2 @@
-public float speed = 100f;
-
-private float salto = 200f;
+public float speed = 100;
 
